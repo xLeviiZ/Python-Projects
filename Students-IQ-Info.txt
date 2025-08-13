@@ -1,0 +1,8 @@
+John;17;120
+Alice;18;135
+Bob;17;110
+Levi;18;86
+Aline;19;115
+Leandro;18;121
+Gabriel;17;164
+Ilse;19;112
