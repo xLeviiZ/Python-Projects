@@ -1,3 +1,4 @@
+#tests
 fruits0 = ['kiwi', 'banana']
 more_fruits0 = ['apple', 'orange']
 fruits0.extend(more_fruits0)
